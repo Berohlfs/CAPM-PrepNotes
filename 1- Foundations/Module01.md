@@ -2,7 +2,7 @@
 
 ## What is a Project
 
-A project is a collection of serial tasks that aim to delivering a desired outcome within a defined period of time, under a planned team and budget.
+A project is a collection of serial tasks that aim to deliver a desired outcome within a defined period of time, under a planned team and budget.
 
 Properly managing a project helps a company: 
 
@@ -28,7 +28,7 @@ Properly managing a project helps a company:
 * Leadership
 * Budget control
 
-A lot of a Project Manager's skills are **tranferable**. This will give you the freedom to explore and move around different industries.
+A lot of a Project Manager's skills are **transferable**. This will give you the freedom to explore and move around different industries.
 
 ## Roles 
 
@@ -41,11 +41,11 @@ A lot of a Project Manager's skills are **tranferable**. This will give you the 
 * Project Assistant
     `Assists team members. Can perform research, create documents and more.`
 * Project Coordinator
-    `Participates in hand-on project work. Works under a Project Manager to ensure projects are completed on time andwithin budget.`
+    `Participates in hand-on project work. Works under a Project Manager to ensure projects are completed on time and within budget.`
 * Project Support Specialist
     `Works alongside team members to supervise assigned projects. May also be responsible for training and developing employees to perform designated tasks.`
 
-### Tradicional
+### Traditional
 
 * Project Manager
     `Responsible for the initiating, planning, executing, monitoring, and closing of a project. Includes industry-specific titles like IT project manager. Skills are transferable among industries.`
